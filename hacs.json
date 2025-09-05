@@ -1,0 +1,6 @@
+{
+  "name": "Tibber Future Prices",
+  "content_in_root": false,
+  "render_readme": true,
+  "country": ["DE", "US"]
+}
