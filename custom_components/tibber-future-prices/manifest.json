@@ -2,7 +2,7 @@
   "domain": "tibber_future_prices",
   "name": "Tibber Future Prices",
   "config_flow": true,
-  "documentation": "https://community.home-assistant.io/",
+  "documentation": "https://github.com/klspn/tibber-future-prices/blob/main/README.md",
   "dependencies": ["tibber"],
   "codeowners": [],
   "requirements": [],
