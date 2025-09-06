@@ -1,4 +1,4 @@
-Tibber Future Prices (Home Assistant Custom Component)
+# Tibber Future Prices (Home Assistant Custom Component)
 This is a custom component for Home Assistant that provides a sensor to fetch future hourly electricity prices from the Tibber API. The primary purpose of this component is to expose price data for today and tomorrow in a format ideal for creating detailed and interactive graphs with cards like the ApexCharts-Card.
 
 (Example image of what a chart could look like)
